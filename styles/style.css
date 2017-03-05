@@ -12,6 +12,15 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+.page-newpost{
+  color:white;
+  text-align: center;
+  background:url("http://wallpapercave.com/wp/TrnAkDt.jpg");
+  position: relative;
+  background-size:100% 100vh;
+  padding-bottom: 10px; margin-top: 0;
+  height: 840px
+}
 .developers-article{
   background: url("http://moon-link.com/wp-content/uploads/2015/12/team.jpg");
   background-size:cover;
