@@ -12,12 +12,15 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+.col-align-center{
+  align-content: center;
+}
 .page-newpost{
   color:white;
   text-align: center;
   background:url("http://wallpapercave.com/wp/TrnAkDt.jpg");
   position: relative;
-  background-size:100% 100vh;
+  background-size:100%;
   padding-bottom: 10px; margin-top: 0;
   height: 840px
 }
@@ -158,7 +161,7 @@
   text-align: center;
   background:url("http://eskipaper.com/images/bokeh-lights-city-1.jpg");
   position: relative;
-  background-size:100% 100vh;
+  background-size:100%;
   padding-bottom: 10px; margin-top: 0;
   height: 840px
 }
@@ -167,7 +170,7 @@
   text-align: center;
   background:url("http://www.mikeolbinski.com/blog/wp-content/uploads/2010/07/20100701_002.jpg");
   position: relative;
-  background-size:100% 100vh;
+  background-size:100%;
   padding-bottom: 10px; margin-top: 0;
   height: 840px
 }
